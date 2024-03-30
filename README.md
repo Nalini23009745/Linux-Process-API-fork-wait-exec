@@ -70,6 +70,11 @@ int main(void)
 
 
 
+
+
+
+
+
 ## C Program to create new process using Linux API system calls fork() and exit()
 #include <stdio.h>
 #include <stdlib.h>
@@ -106,8 +111,15 @@ int main() {
 
 
 
+
+
+
 ##OUTPUT
 ![image](https://github.com/Nalini23009745/Linux-Process-API-fork-wait-exec/assets/149347484/6c7848f8-7229-4d44-93dd-62c66c1d32f5)
+
+
+
+
 
 
 
